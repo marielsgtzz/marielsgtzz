@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "thesis": "Thesis",
+    "github": "GitHub",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "title": "Software Engineer",
+    "subtitle": "Passionate about technology, augmented reality, and well-crafted code.",
+    "cta": "Tell me more",
+    "contact": "Let's talk"
+  },
+  "about": {
+    "title": "A bit about me",
+    "intro": "I'm Mariel,from Monterrey and a Computer Engineering graduate from ITAM. I currently work as a Software Engineer at J.P. Morgan and am also co-founder and developer at Guza & Larrondo Solutions.",
+    "guza": "At Guza & Larrondo Solutions I'm a co-founder and software developer. We build custom technology solutions tailored to each client's needs, from design to deployment. I love that process of understanding a real problem and turning it into working code.",
+    "personal": "When I'm not at the computer...",
+    "golf": "I'm learning golf. Total amateur, but getting there.",
+    "tech": "I'm fascinated by how technology can simplify our lives. From productivity tools to augmented reality in industry.",
+    "thesis_teaser": "My thesis was about AR for industrial training"
+  },
+  "experience": {
+    "title": "Experience",
+    "present": "Present",
+    "jobs": [
+      {
+        "company": "J.P. Morgan",
+        "role": "Software Engineer",
+        "period": "Mar 2025 – Present",
+        "location": "Mexico City",
+        "bullets": [
+          "Led the modernization of an internal payments connector UI, migrating legacy interfaces to a modern tech stack.",
+          "Designed and implemented new platform features, enhancing long-term sustainability and extensibility.",
+          "Built monitoring dashboards in Datadog and created alerting systems.",
+          "Stack: React, JavaScript, Spring Boot, Maven, AWS ECS, Aurora PostgreSQL."
+        ]
+      },
+      {
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "period": "May 2024 – Aug 2024",
+        "location": "Redmond, Washington",
+        "bullets": [
+          "Integrated a health check micro frontend into a complex monitoring platform.",
+          "Worked full stack with TypeScript, React, and C# REST APIs.",
+          "Participated in team-wide projects and bug fixing."
+        ]
+      },
+      {
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "period": "May 2023 – Aug 2023",
+        "location": "Redmond, Washington",
+        "bullets": [
+          "Built a theme adapter library for micro frontends using TypeScript and React.",
+          "The project was adopted by the team's micro frontend tooling library.",
+          "Participated in team-wide projects and bug fixing."
+        ]
+      },
+      {
+        "company": "ITAM",
+        "role": "Teacher Assistant (Minor Faculty)",
+        "period": "Aug 2023 – Dec 2023",
+        "location": "Mexico City",
+        "bullets": [
+          "Provided academic support to students and assisted computer science faculty.",
+          "Led complementary labs for Algorithms & Programs and Computer Graphics.",
+          "Assisted a faculty member with their research."
+        ]
+      },
+      {
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "period": "May 2022 – Aug 2022",
+        "location": "Monterrey, Mexico",
+        "bullets": [
+          "Migrated a legacy Swagger tool to a new platform.",
+          "Built end-to-end testing functionalities for OpenAPI documents.",
+          "Developed front-end and back-end components with React and C#."
+        ]
+      },
+      {
+        "company": "Powertrain Ventures / Aprena",
+        "role": "CTO",
+        "period": "May 2021 – Mar 2022",
+        "location": "Monterrey, Mexico",
+        "bullets": [
+          "Offered technical and funding plans to companies to help grow their products.",
+          "Developed a micro-consulting platform with digital scheduling and video call sessions.",
+          "Led website UX and internal tooling development."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Technologies I work with",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "devops": "DevOps & Cloud",
+      "other": "Other"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "guza_title": "Guza & Larrondo Solutions",
+    "guza_desc": "I'm a co-founder and developer at Guza & Larrondo Solutions, building custom digital solutions for different clients. I love this kind of work because every project is a different problem to solve.",
+    "tera_title": "TERA, ITAM",
+    "tera_role": "Technology Coordinator",
+    "tera_period": "Jan 2023 – Jun 2024",
+    "tera_desc": "Coordinated a team of four and drove the technological direction of TERA, an ITAM engineering lab that inspires children aged 8-12 with science, hands-on activities, and AR/VR experiences.",
+    "plenna_title": "Clinical Portal, Plenna",
+    "plenna_period": "Mar 2022 – May 2022",
+    "plenna_desc": "Developed a platform proposal for administrators and doctors of Plenna's Medical Clinic. Database with PostgreSQL, frontend with C# in Visual Studio.",
+    "hackathon_title": "Hack4Her Hackathon",
+    "hackathon_period": "Jun 2021",
+    "hackathon_desc": "Developed a web tool prototype in a team of two as a solution to reduce the gender gap in companies.",
+    "ftc_title": "FIRST Tech Challenge",
+    "ftc_period": "Feb 2024",
+    "ftc_desc": "Referee at the National FIRST Tech Challenge, in charge of penalties and scorekeeping."
+  },
+  "thesis": {
+    "title": "Thesis",
+    "subtitle": "Graduation Project",
+    "full_title": "Development and implementation of a mixed reality system for the teaching and training of industrial processes",
+    "description": "My thesis explored how mixed reality can transform the way people learn and train in industrial environments, without needing the actual physical equipment. An intersection of technology, education, and industry that I'm passionate about.",
+    "institution": "Instituto Tecnológico Autónomo de México, 2025",
+    "read": "Read Thesis",
+    "coming_soon": "PDF coming soon"
+  },
+  "github": {
+    "title": "GitHub",
+    "subtitle": "Public repositories",
+    "description": "Here you can see some of my projects and public code. Fair warning: it's a bit outdated since I work a lot in private repos, but it's still part of my story as a developer.",
+    "visit": "View on GitHub"
+  },
+  "education": {
+    "title": "Education",
+    "degree": "Computer Engineering",
+    "institution": "Instituto Tecnológico Autónomo de México (ITAM)",
+    "period": "Aug 2020 – May 2025",
+    "location": "Mexico City",
+    "note": "Member of the exchange student organization (AEF).",
+    "minor": "Minor Faculty",
+    "tera": "TERA Lab"
+  },
+  "contact": {
+    "title": "Let's talk",
+    "subtitle": "If you want to chat about technology, projects, or collaborate on something, reach out.",
+    "button": "Send email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "made": "Built with React, MUI, and lots of coffee.",
+    "rights": "All rights reserved."
+  }
+}

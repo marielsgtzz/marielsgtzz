@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "experience": "Experiencia",
+    "skills": "Skills",
+    "projects": "Proyectos",
+    "thesis": "Tesina",
+    "github": "GitHub",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "title": "Ingeniera de Software",
+    "subtitle": "Apasionada de la tecnología, la realidad aumentada y el código bien hecho.",
+    "cta": "Cuéntame más",
+    "contact": "Hablemos"
+  },
+  "about": {
+    "title": "Un poco sobre mí",
+    "intro": "Soy Mariel, regiomontana e Ingeniera en Computación egresada del ITAM. Actualmente trabajo como Software Engineer en J.P. Morgan y también soy cofundadora y desarrolladora en Guza & Larrondo Solutions.",
+    "guza": "En Guza & Larrondo Solutions soy cofundadora y desarrolladora de software. Construimos soluciones tecnológicas a la medida de las necesidades de cada cliente, desde el diseño hasta el despliegue. Me encanta ese proceso de entender un problema real y convertirlo en código funcional.",
+    "personal": "Cuando no estoy en la computadora...",
+    "golf": "Estoy aprendiendo golf. Mega amateur, pero ahí vamos.",
+    "tech": "Me fascina cómo la tecnología puede simplificarnos la vida. Desde herramientas de productividad hasta realidad aumentada en industria.",
+    "thesis_teaser": "Mi tesis fue sobre AR para entrenamiento industrial"
+  },
+  "experience": {
+    "title": "Experiencia",
+    "present": "Presente",
+    "jobs": [
+      {
+        "company": "J.P. Morgan",
+        "role": "Software Engineer",
+        "period": "Mar 2025 – Presente",
+        "location": "Ciudad de México",
+        "bullets": [
+          "Lideré la modernización de un conector de pagos interno, migrando interfaces legacy a un stack moderno.",
+          "Diseñé e implementé nuevas features para mejorar sostenibilidad y extensibilidad del sistema.",
+          "Desarrollé dashboards de monitoreo en Datadog y sistemas de alertas.",
+          "Stack: React, JavaScript, Spring Boot, Maven, AWS ECS, Aurora PostgreSQL."
+        ]
+      },
+      {
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "period": "May 2024 – Ago 2024",
+        "location": "Redmond, Washington",
+        "bullets": [
+          "Integré un micro frontend de health check en una plataforma de monitoreo compleja.",
+          "Trabajé full stack con TypeScript, React y APIs REST en C#.",
+          "Participé en proyectos del equipo y corrección de bugs."
+        ]
+      },
+      {
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "period": "May 2023 – Ago 2023",
+        "location": "Redmond, Washington",
+        "bullets": [
+          "Construí una librería de adaptación de temas para micro frontends con TypeScript y React.",
+          "El proyecto fue adoptado por la librería de tooling del equipo.",
+          "Participé en proyectos del equipo y corrección de bugs."
+        ]
+      },
+      {
+        "company": "ITAM",
+        "role": "Facultad Menor",
+        "period": "Ago 2023 – Dic 2023",
+        "location": "Ciudad de México",
+        "bullets": [
+          "Soporte académico a estudiantes y apoyo a profesores de Ciencias de la Computación.",
+          "Lideré laboratorios complementarios de Algoritmos y Programas, y Computación Gráfica.",
+          "Asistí a un profesor en su investigación."
+        ]
+      },
+      {
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "period": "May 2022 – Ago 2022",
+        "location": "Monterrey, México",
+        "bullets": [
+          "Migré una herramienta Swagger legacy a una nueva plataforma.",
+          "Construí funcionalidades de pruebas end-to-end para documentos OpenAPI.",
+          "Desarrollé componentes front-end y back-end con React y C#."
+        ]
+      },
+      {
+        "company": "Powertrain Ventures / Aprena",
+        "role": "CTO",
+        "period": "May 2021 – Mar 2022",
+        "location": "Monterrey, México",
+        "bullets": [
+          "Ofrecí planes técnicos y de financiamiento a empresas para impulsar sus productos.",
+          "Desarrollé una plataforma de micro-consultoría con agendamiento y videollamadas.",
+          "Lideré el desarrollo del sitio web y herramientas internas."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Tecnologías con las que trabajo",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "devops": "DevOps & Cloud",
+      "other": "Otros"
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "guza_title": "Guza & Larrondo Solutions",
+    "guza_desc": "Soy cofundadora y desarrolladora en Guza & Larrondo Solutions, construyendo soluciones digitales a la medida para diferentes clientes. Me encanta este tipo de trabajo porque cada proyecto es un problema distinto que resolver.",
+    "tera_title": "TERA, ITAM",
+    "tera_role": "Coordinadora de Tecnología",
+    "tera_period": "Ene 2023 – Jun 2024",
+    "tera_desc": "Coordiné un equipo de cuatro personas y dirigí la dirección tecnológica de TERA, laboratorio de ingeniería del ITAM que inspira a niños de 8 a 12 años con ciencia, actividades prácticas y experiencias de realidad aumentada y virtual.",
+    "plenna_title": "Portal Clínico, Plenna",
+    "plenna_period": "Mar 2022 – May 2022",
+    "plenna_desc": "Desarrollé una propuesta de plataforma para administradores y médicos de la Clínica Médica Plenna. Base de datos con PostgreSQL y frontend con C# en Visual Studio.",
+    "hackathon_title": "Hack4Her Hackathon",
+    "hackathon_period": "Jun 2021",
+    "hackathon_desc": "Desarrollé un prototipo de herramienta web en equipo de dos como solución para disminuir la brecha de género en empresas.",
+    "ftc_title": "FIRST Tech Challenge",
+    "ftc_period": "Feb 2024",
+    "ftc_desc": "Fui juez en el Nacional de FIRST Tech Challenge, a cargo de penalizaciones y marcador de partidos."
+  },
+  "thesis": {
+    "title": "Tesina",
+    "subtitle": "Trabajo de Titulación",
+    "full_title": "Desarrollo e implementación de un sistema de realidad mixta para la enseñanza y entrenamiento de procesos industriales",
+    "description": "Mi trabajo de titulación exploró cómo la realidad mixta puede transformar la manera en que las personas aprenden y se entrenan en entornos industriales, sin necesitar el equipo físico real. Una intersección entre tecnología, educación e industria que me apasiona.",
+    "institution": "Instituto Tecnológico Autónomo de México, 2025",
+    "read": "Leer Tesina",
+    "coming_soon": "PDF próximamente disponible"
+  },
+  "github": {
+    "title": "GitHub",
+    "subtitle": "Repositorios públicos",
+    "description": "Aquí puedes ver algunos de mis proyectos y código público. Aviso: está un poco desactualizado porque trabajo mucho en repos privados, pero sigue siendo parte de mi historia como desarrolladora.",
+    "visit": "Ver en GitHub"
+  },
+  "education": {
+    "title": "Educación",
+    "degree": "Ingeniería en Computación",
+    "institution": "Instituto Tecnológico Autónomo de México (ITAM)",
+    "period": "Ago 2020 – May 2025",
+    "location": "Ciudad de México",
+    "note": "Miembro de la organización de intercambio estudiantil (AEF).",
+    "minor": "Facultad Menor",
+    "tera": "Laboratorio TERA"
+  },
+  "contact": {
+    "title": "Hablemos",
+    "subtitle": "Si quieres platicar sobre tecnología, proyectos o colaborar en algo, escríbeme.",
+    "button": "Mandar correo",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "made": "Hecho con React, MUI y mucho café.",
+    "rights": "Todos los derechos reservados."
+  }
+}

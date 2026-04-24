@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+
+    <!-- Favicon: letra M en morado sobre fondo oscuro -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Color de barra de navegador en móvil -->
+    <meta name="theme-color" content="#9B5DE5" />
+
+    <!-- SEO básico -->
+    <title>Mariel Sofía Gutiérrez Zapién | Software Engineer</title>
+    <meta name="description" content="Portafolio de Mariel Sofía Gutiérrez Zapién, Ingeniera de Software en J.P. Morgan. Egresada del ITAM. React, JavaScript, Java, Spring Boot." />
+    <meta name="author" content="Mariel Sofía Gutiérrez Zapién" />
+    <meta name="keywords" content="Mariel Gutiérrez, Software Engineer, ITAM, J.P. Morgan, React, JavaScript, Spring Boot, Mexico, portafolio" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://marielsgtzz.com/" />
+
+    <!-- Open Graph (para vista previa en redes sociales como LinkedIn, WhatsApp, etc.) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://marielsgtzz.com/" />
+    <meta property="og:title" content="Mariel Sofía Gutiérrez Zapién | Software Engineer" />
+    <meta property="og:description" content="Software Engineer en J.P. Morgan. Egresada del ITAM. React, JavaScript, Java, Spring Boot." />
+    <meta property="og:image" content="https://marielsgtzz.com/images/sonriendoPerfil.JPG" />
+    <meta property="og:locale" content="es_MX" />
+    <meta property="og:locale:alternate" content="en_US" />
+
+    <!-- Twitter Card (para vista previa en X / Twitter) -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Mariel Sofía Gutiérrez Zapién | Software Engineer" />
+    <meta name="twitter:description" content="Software Engineer en J.P. Morgan. Egresada del ITAM." />
+    <meta name="twitter:image" content="https://marielsgtzz.com/images/sonriendoPerfil.JPG" />
+
+    <!-- Preload de la foto principal (hero) para que cargue lo antes posible -->
+    <link rel="preload" as="image" href="/images/sonriendoPerfil.JPG" fetchpriority="high" />
+
+    <!-- Preconnect a Google Fonts para reducir latencia al cargar Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Fuente Inter de Google Fonts (solo los pesos que usamos: 400, 600, 700, 800) -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- JSON-LD: Datos estructurados para Google (Schema.org Person) -->
+    <!-- Esto ayuda a Google a entender quién eres y puede aparecer en Knowledge Panels -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Mariel Sofía Gutiérrez Zapién",
+      "url": "https://marielsgtzz.com",
+      "image": "https://marielsgtzz.com/images/sonriendoPerfil.JPG",
+      "jobTitle": "Software Engineer",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "J.P. Morgan"
+      },
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "Instituto Tecnológico Autónomo de México",
+        "sameAs": "https://www.itam.mx"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/marielsgtzz/",
+        "https://github.com/marielsgtzz"
+      ],
+      "knowsLanguage": ["es", "en", "de"],
+      "nationality": "Mexican"
+    }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- Punto de entrada de React. Vite inyecta aquí el bundle compilado -->
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
